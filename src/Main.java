@@ -4,8 +4,5 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello World!");
-
-        //nota de fer
-        System.out.println("fer tambien anda colaborando en el proyecto");
     }
 }
