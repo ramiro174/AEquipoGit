@@ -12,5 +12,8 @@ public class Main {
         }
         System.out.printf("aqui termine de hacer un Menu");
         System.out.printf("aqui termine de hacer un Menu");
+
+        System.out.printf("aqui termine de hacer un Menu");
+        System.out.printf("aqui termine de hacer un Menu");
     }
 }
