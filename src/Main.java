@@ -2,12 +2,10 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+        // to see how IntelliJ IDEA suggests fixing it.
+        System.out.printf("Hello and welcome!");
 
-        System.out.println("Hello World!");
-//ramiro  heeeee
-        //voy a ocupar esta linea  espero que no le muevan
-        //otra nota de fer
-        //cierren la puerta porfa  que no escucho
-        //ya quedo el trabajo  fer
+
     }
 }
